@@ -194,12 +194,23 @@ temple.html
 </html>
 ```
 ## OUTPUT
-![alt text](mp.png)
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
+
+![mp](https://github.com/user-attachments/assets/abecf0f9-c804-4cf0-aded-30041a93de41)
+
+![1](https://github.com/user-attachments/assets/03b83885-cddc-4f20-a19d-0c616394bf6a)
+
+![2](https://github.com/user-attachments/assets/84643b9e-ebb2-4748-ba42-29f0e8fbad70)
+
+
+![3](https://github.com/user-attachments/assets/0f9b6b72-df6e-439a-9c56-1ecccc23430d)
+
+
+![4](https://github.com/user-attachments/assets/efc23f05-54dd-41d3-8d58-86ac91240756)
+
+![5](https://github.com/user-attachments/assets/7dfa65a3-6781-4542-92a5-0872cefb2135)
+
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
