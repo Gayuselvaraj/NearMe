@@ -1,6 +1,9 @@
 # Ex04 Places Around Me
 ## Date: 22-04-2025
-
+```
+NAME: GAYU
+REG NO: 24900444
+```
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -37,7 +40,7 @@ map.html
         <font color="red"><b>Vanagaram</b></font>
         </h1>
         <h3 align ="center">
-            <font color ="black"><b>S.Dhamini (212224040064)</b></font>
+            <font color ="black"><b>GAYU (24900444)</b></font>
 
         </h3>
         <center>
@@ -195,22 +198,14 @@ temple.html
 ```
 ## OUTPUT
 
-![mp](https://github.com/user-attachments/assets/abecf0f9-c804-4cf0-aded-30041a93de41)
+![alt text](1.png)
 
-![1](https://github.com/user-attachments/assets/03b83885-cddc-4f20-a19d-0c616394bf6a)
+![alt text](2.png)
 
-![2](https://github.com/user-attachments/assets/84643b9e-ebb2-4748-ba42-29f0e8fbad70)
+![alt text](3.png)
 
+![alt text](4.png)
 
-![3](https://github.com/user-attachments/assets/0f9b6b72-df6e-439a-9c56-1ecccc23430d)
-
-
-![4](https://github.com/user-attachments/assets/efc23f05-54dd-41d3-8d58-86ac91240756)
-
-![5](https://github.com/user-attachments/assets/7dfa65a3-6781-4542-92a5-0872cefb2135)
-
-
-
-
+![alt text](5.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
